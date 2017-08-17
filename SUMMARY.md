@@ -1,6 +1,11 @@
 # Summary
 
+## Courses
+
 * [Introduction](README.md)
+
+## Definitions
+
 * [Variance](first-question.md)
 * [Mean](second-question.md)
 * [Probability distribution](probability-distribution.md)
