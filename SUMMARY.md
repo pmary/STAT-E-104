@@ -3,6 +3,7 @@
 ## Courses
 
 * [Introduction](README.md)
+* [02 - Getting Good Data](02-getting-good-data.md)
 
 ## Definitions
 
