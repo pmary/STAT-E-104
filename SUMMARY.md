@@ -16,7 +16,5 @@
 * [Operational definition](operational-definition.md)
 * [Probability distribution](probability-distribution.md)
 * [Sample](sample.md)
-* [Inference](inference.md)
-* [Central tendency](central-tendency.md)
 * [Variance](first-question.md)
 
