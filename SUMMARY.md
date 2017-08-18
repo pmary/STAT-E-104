@@ -7,15 +7,16 @@
 
 ## Definitions
 
-* [Variance](first-question.md)
-* [Mean](second-question.md)
-* [Probability distribution](probability-distribution.md)
-* [Standard deviation](standard-deviation.md)
-* [Independant variable](independant-variable.md)
-* [Dependent variable](dependent-variable.md)
-* [Sample](sample.md)
-* [Operational definition](operational-definition.md)
-* [Inference](inference.md)
-* [Extrapolation](extrapolation.md)
 * [Central tendency](central-tendency.md)
+* [Dependent variable](dependent-variable.md)
+* [Inference](inference.md)
+* [Independant variable](independant-variable.md)
+* [Mean](second-question.md)
+* [Mode](mode.md)
+* [Operational definition](operational-definition.md)
+* [Probability distribution](probability-distribution.md)
+* [Sample](sample.md)
+* [Inference](inference.md)
+* [Central tendency](central-tendency.md)
+* [Variance](first-question.md)
 
